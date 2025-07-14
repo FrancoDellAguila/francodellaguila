@@ -17,7 +17,6 @@ I care about designing software that’s not just functional — but **clear, sc
 ---
 
 ## 🚀 Highlighted Projects
-## 🚀 Highlighted Projects
 
 - **Gelroy** – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
   *Tech stack:* Python, XML, Odoo, PostgreSQL
@@ -60,7 +59,7 @@ I care about designing software that’s not just functional — but **clear, sc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" height="40" alt="Odoo logo" />
+  <img src="https://cdn.simpleicons.org/odoo/7A7A7A" height="40" alt="Odoo logo" />
 </div>
 
 ---
