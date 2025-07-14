@@ -65,7 +65,7 @@ I care about designing software that’s not just functional — but **clear, sc
 
 ## 🤝 Let's Connect
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" />](https://www.linkedin.com/in/franco-dell-aguila/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" style="color:#0077B5; fill:#0077B5;" />](https://www.linkedin.com/in/franco-dell-aguila/)
 
 ---
 
