@@ -18,17 +18,14 @@ I care about designing software that’s not just functional — but **clear, sc
 
 ## 🚀 Highlighted Projects
 
-- **Gelroy**(https://github.com/FrancoDellAguila/MapYourWorld) – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
-  *Tech stack:* Python, XML, Odoo, PostgreSQL  
-  [GitHub Repository](https://github.com/FrancoDellAguila/gelroy)
+- [**Gelroy**](https://github.com/FrancoDellAguila/MapYourWorld) – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
+  *Tech stack:* Python, XML, Odoo, PostgreSQL
 
-- **MapYourWorld** – Android gamified tourism app with geolocation, real-world challenges, and social features  
+- [**MapYourWorld**](https://github.com/FrancoDellAguila/MapYourWorld) – Android gamified tourism app with geolocation, real-world challenges, and social features  
   *Tech stack:* Node.js, TypeScript, React, Gradle, PostgreSQL  
-  [GitHub Repository](https://github.com/FrancoDellAguila/MapYourWorld)
   
-- **Cell Tracking** – Deep learning model for cell segmentation and tracking in microscopy images  
+- [**Cell Tracking**](https://github.com/FrancoDellAguila/cell-tracking) – Deep learning model for cell segmentation and tracking in microscopy images  
   *Tech stack:* Python, PyTorch, NumPy, OpenCV  
-  [GitHub Repository](https://github.com/FrancoDellAguila/cell-tracking)
 
 ---
 
