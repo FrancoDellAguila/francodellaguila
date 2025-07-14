@@ -18,7 +18,7 @@ I care about designing software that’s not just functional — but **clear, sc
 
 ## 🚀 Highlighted Projects
 
-- **Gelroy** – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
+- **Gelroy**(https://github.com/FrancoDellAguila/MapYourWorld) – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
   *Tech stack:* Python, XML, Odoo, PostgreSQL  
   [GitHub Repository](https://github.com/FrancoDellAguila/gelroy)
 
