@@ -18,7 +18,7 @@ I care about designing software that’s not just functional — but **clear, sc
 
 ## 🚀 Highlighted Projects
 
-- [**Gelroy**](https://github.com/FrancoDellAguila/MapYourWorld) – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
+- [**Gelroy**](https://github.com/FrancoDellAguila/gelroy) – Franchise Management System built in Odoo, enabling automation of contracts, royalty payments, and KPI tracking  
   *Tech stack:* Python, XML, Odoo, PostgreSQL
 
 - [**MapYourWorld**](https://github.com/FrancoDellAguila/MapYourWorld) – Android gamified tourism app with geolocation, real-world challenges, and social features  
